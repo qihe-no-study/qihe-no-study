@@ -1,11 +1,13 @@
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎彭于晏!&center=true&size=27"> </a> </h1>
 
-## Hi there 👋
+## About Me
 
 ## Connect with me
 
-[![微信公众号](https://img.shields.io/badge/微信公众号-white?logo=wechat)]([https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg](https://mp.weixin.qq.com/s/wBJH9BdqHuEPK71ZaR05Mw))
+[![微信公众号](https://img.shields.io/badge/微信公众号-white?logo=wechat)](https://mp.weixin.qq.com/s/wBJH9BdqHuEPK71ZaR05Mw)
 
+
+## GitHub 数据统计
 ![](./profile-3d-contrib/profile-gitblock.svg)
 <!--
 **qihe-no-study/qihe-no-study** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
