@@ -1,6 +1,8 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎彭于晏!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=不以物喜，不以己悲!&center=true&size=27"> </a> </h1>
 
 ## About Me
+
+柒禾无法被定义，就像没有人能握住风。他来过，席卷一切后转身离去，不留痕迹，却让所有人，久久无法忘怀。
 
 ## Connect with me
 
